@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Nursevim\indirimuygulamaV1\indirimuygulamaV1\bin\Debug\indirimuygulamaV1.exe.config
+C:\Users\USER\Desktop\Nursevim\indirimuygulamaV1\indirimuygulamaV1\bin\Debug\indirimuygulamaV1.exe
+C:\Users\USER\Desktop\Nursevim\indirimuygulamaV1\indirimuygulamaV1\bin\Debug\indirimuygulamaV1.pdb
+C:\Users\USER\Desktop\Nursevim\indirimuygulamaV1\indirimuygulamaV1\obj\Debug\indirimuygulamaV1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Nursevim\indirimuygulamaV1\indirimuygulamaV1\obj\Debug\indirimuygulamaV1.Form1.resources
+C:\Users\USER\Desktop\Nursevim\indirimuygulamaV1\indirimuygulamaV1\obj\Debug\indirimuygulamaV1.Properties.Resources.resources
+C:\Users\USER\Desktop\Nursevim\indirimuygulamaV1\indirimuygulamaV1\obj\Debug\indirimuygulamaV1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Nursevim\indirimuygulamaV1\indirimuygulamaV1\obj\Debug\indirimuygulamaV1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Nursevim\indirimuygulamaV1\indirimuygulamaV1\obj\Debug\indirimuygulamaV1.exe
+C:\Users\USER\Desktop\Nursevim\indirimuygulamaV1\indirimuygulamaV1\obj\Debug\indirimuygulamaV1.pdb
